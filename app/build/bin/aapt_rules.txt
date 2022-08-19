@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:73
+-keep class com.OpenRoot.Canvas.MainActivity { <init>(...); }
+

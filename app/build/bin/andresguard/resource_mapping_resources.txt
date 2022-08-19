@@ -1,0 +1,15 @@
+res path mapping:
+    res/drawable -> r/a
+    res/layout -> r/b
+
+
+res id mapping:
+    com.OpenRoot.Canvas.R.drawable.ic_launcher -> com.OpenRoot.Canvas.R.drawable.a
+    com.OpenRoot.Canvas.R.drawable.ic_launcher_round -> com.OpenRoot.Canvas.R.drawable.b
+    com.OpenRoot.Canvas.R.layout.activity_main -> com.OpenRoot.Canvas.R.layout.a
+    com.OpenRoot.Canvas.R.color.colorPrimary -> com.OpenRoot.Canvas.R.color.a
+    com.OpenRoot.Canvas.R.color.colorPrimaryDark -> com.OpenRoot.Canvas.R.color.b
+    com.OpenRoot.Canvas.R.color.colorAccent -> com.OpenRoot.Canvas.R.color.c
+    com.OpenRoot.Canvas.R.string.app_name -> com.OpenRoot.Canvas.R.string.a
+    com.OpenRoot.Canvas.R.style.AppTheme -> com.OpenRoot.Canvas.R.style.a
+    com.OpenRoot.Canvas.R.id.go_app -> com.OpenRoot.Canvas.R.id.a
